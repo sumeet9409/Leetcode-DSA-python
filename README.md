@@ -46,3 +46,15 @@ Python
 ## Platform
 
 LeetCode
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumeet9409/Leetcode-DSA-python/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumeet9409/Leetcode-DSA-python/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
